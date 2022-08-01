@@ -3,4 +3,4 @@
 0. `Create` an issue with [URL shortener template](https://github.com/iwill/gh-pages-url-shortener-db/issues/new?template=url-shortener-template.md&title=%60short-url%60+-+accepts+256+characters);
 1. `Paste` URL into issue body or title;
 2. `Submit` new issue;
-3. `Copy` the short URL: `https://iwill.im/url/{issue_number}`.
+3. `Copy` the short URL: `iwill.im/url/{issue_number}`.
