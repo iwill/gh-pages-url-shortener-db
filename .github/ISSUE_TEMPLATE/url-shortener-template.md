@@ -2,10 +2,10 @@
 name: URL shortener template
 about: '1. `Paste` URL into issue body or title; 2. `Submit` new issue; 3. `Copy`
   the short URL: `https://iwill.im/url/{issue_number}`.'
-title: "<base-url> - accepts 256 characters"
+title: "`short-url` - accepts 256 characters"
 labels: ''
 assignees: ''
 
 ---
 
-<loooong url> - accepts 65536 characters
+`loooong-url` - accepts 65536 characters, **REMOVE IF NOT NEEDED**
