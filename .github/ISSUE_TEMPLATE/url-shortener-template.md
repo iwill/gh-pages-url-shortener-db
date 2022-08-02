@@ -8,4 +8,4 @@ assignees: iwill
 
 ---
 
-`loooong-url` - accepts 65536 characters, **CLEAR HERE IF NOT NEEDED**
+`loooong-url` - accepts 65536 characters
